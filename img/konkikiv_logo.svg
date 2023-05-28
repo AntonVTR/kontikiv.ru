@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg id="svg3526" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="400" width="400" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <circle id="path3684" cx="200" cy="200" r="200"/>
+ <g id="layer1" transform="translate(200,-200)">
+  <path id="path3686" fill="#fff" d="m-187.33 449.8a193.94 192.42 0 0 1 76.092 -207.43 193.94 192.42 0 0 1 222.48 0 193.94 192.42 0 0 1 76.092 207.43"/>
+ </g>
+ <g id="layer2" transform="translate(200,-200)">
+  <path id="svg_10" d="m-15.663 424.7v-78l-50 78h50z" stroke-width="0"/>
+  <path id="svg_8" d="m-69.892 431.19 31.996 18h106.65l31.996-18h-170.64z" fill-opacity="null" stroke-width="0"/>
+  <g stroke-linejoin="null" stroke-linecap="null">
+   <line id="svg_9" x1="-10.75" fill="#008000" y1="336.25" stroke="#000500" x2="-9.75" y2="434.25" stroke-width="5"/>
+   <line id="svg_12" x1="-5.75" fill="#008000" y1="263.75" stroke="#000" x2="-5.75" y2="422.32" stroke-width="1.714"/>
+   <line id="svg_13" x1="-7.668" fill="#fff" y1="421.93" stroke="#000003" x2="105.35" y2="392.59" stroke-width="2.1246"/>
+  </g>
+  <g fill-opacity="null">
+   <line id="svg_14" stroke-linejoin="null" x1="-5.7643" y1="263.63" stroke="#002705" stroke-linecap="null" x2="104.21" y2="392.16" stroke-width="1.9784"/>
+   <text id="svg_17" font-family="&apos;Trebuchet MS&apos;, Gadget, sans-serif" stroke-opacity="null" xml:space="preserve" font-size="51.63px" text-anchor="left" y="519.18597" x="-133.30568" stroke-width="0" fill="#ffffff"><tspan id="tspan3423" font-weight="500" font-size="62.5px" font-family="Futura">KON-TIKI</tspan></text>
+   <text id="svg_18" font-family="&apos;Trebuchet MS&apos;, Gadget, sans-serif" stroke-opacity="null" xml:space="preserve" font-size="37.302px" text-anchor="left" y="557.60095" x="-95.536034" stroke-width="0" fill="#ffffff"><tspan id="tspan3425" font-weight="500" font-size="27.5px" font-family="Futura">VLADIVOSTOK</tspan></text>
+  </g>
+ </g>
+</svg>
